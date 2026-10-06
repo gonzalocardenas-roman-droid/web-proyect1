@@ -5,3 +5,9 @@ body {
     font-size: 16.5px;
     line-height: 1.6;
 }
+.tareas {
+    background: white;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
